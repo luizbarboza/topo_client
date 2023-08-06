@@ -1,7 +1,7 @@
 name: topo_client
 version: 1.0.3
 description: Manipulate TopoJSON, such as to merge shapes, and convert it back to GeoJSON.
-repository: https://github.com/SBanksX/topo_client
+repository: https://github.com/luizbarboza/topo_client
 
 environment:
   sdk: '>=2.18.0 <3.0.0'
