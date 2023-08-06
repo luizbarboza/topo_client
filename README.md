@@ -1,3 +1,7 @@
+[![Dart CI](https://github.com/luizbarboza/topo_client/actions/workflows/ci.yml/badge.svg)](https://github.com/luizbarboza/topo_client/actions/workflows/ci.yml)
+[![pub package](https://img.shields.io/pub/v/topo_client.svg)](https://pub.dev/packages/topo_client)
+[![package publisher](https://img.shields.io/pub/publisher/topo_client.svg)](https://pub.dev/packages/topo_client/publisher)
+
 Manipulate TopoJSON, such as to merge shapes, and convert it back to
 GeoJSON.
 
